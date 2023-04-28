@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPersonajesDDB", "ApiPersonajesDDB\ApiPersonajesDDB.csproj", "{E88E791D-8826-4B9C-B1DB-20647B925C6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E88E791D-8826-4B9C-B1DB-20647B925C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88E791D-8826-4B9C-B1DB-20647B925C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88E791D-8826-4B9C-B1DB-20647B925C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88E791D-8826-4B9C-B1DB-20647B925C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BA64F08-6D11-41C3-BA5F-1D8AE48473F6}
+	EndGlobalSection
+EndGlobal
